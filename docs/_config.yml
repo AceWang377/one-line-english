@@ -1,4 +1,9 @@
 title: One Line English
 description: Support and privacy pages for One Line English.
 theme: minima
-
+header_pages:
+  - index.md
+  - privacy.md
+  - support.md
+exclude:
+  - superpowers
