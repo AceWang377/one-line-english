@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Xcode build products
+build/
+DerivedData/
+*.ipa
+*.xcarchive
+
+# Swift Package Manager
+.build/
+
+# Local automation and QA artifacts
+.xcodebuildmcp/
+QAArtifacts/
+
