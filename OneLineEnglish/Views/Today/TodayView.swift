@@ -27,6 +27,8 @@ struct TodayView: View {
                     .padding(.horizontal, 20)
                     .padding(.top, 12)
                     .padding(.bottom, 72)
+                    .frame(maxWidth: min(680, proxy.size.width - 40))
+                    .frame(maxWidth: .infinity)
                 }
             }
             .navigationTitle(appState.tr("today"))

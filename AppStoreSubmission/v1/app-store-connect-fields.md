@@ -30,36 +30,36 @@ Daily English in one line
 
 ### Promotional Text
 
-Build a quiet daily English habit with one memorable line, one advanced keyword, and a quick review loop.
+Learn one memorable English line a day. Swipe, master one advanced word, and keep your vocabulary habit calm and consistent.
 
 ### Description
 
-One Line English helps you build an English vocabulary habit one meaningful sentence at a time.
+One Line English helps you build an English vocabulary habit through one memorable sentence a day.
 
-Each day, you study one carefully selected English quote, focus on one advanced keyword, and decide whether to mark it as learned or review it later. The app keeps the experience simple: no account, no feed, no noise.
+No long lessons. No account. No feed. Just one carefully selected English quote, one advanced keyword, and a simple review loop.
 
 Features:
 
 One line a day
-Learn from a memorable English sentence and complete the daily goal in one focused session.
+Study one meaningful English sentence and complete the daily goal in one focused session.
 
 Keyword learning
-Each quote highlights a useful higher-level word with a short meaning, example, and memory hook.
+Each card highlights a useful higher-level word with a short meaning, expression, example, and memory hook.
 
 Review mode
-Revisit learned quotes and words so the vocabulary stays familiar.
+Revisit learned lines and words so useful vocabulary stays familiar.
 
 Chinese and English interface
-Switch the app interface between English and Chinese in Settings. Learning content remains in English.
+Switch the app interface between English and Chinese. Learning content remains in English, so you stay close to the original language.
 
 Private by design
 No account is required. Progress is stored locally on your device.
 
-One Line English is built for learners who want English to feel calm, repeatable, and easy to return to every day.
+One Line English is built for learners who want English study to feel calm, repeatable, and easy to return to every day.
 
 ### Keywords
 
-vocabulary,english,words,daily,quotes,learning,study,review,reading,language
+english,vocabulary,words,quotes,daily,learning,review,reading,language,flashcards,study
 
 ### What's New
 
@@ -121,3 +121,31 @@ Suggested order:
 5. `05-settings-language.png`
 
 All five screenshots are PNG files at 1320 x 2868 px.
+
+Use the 6.5-inch iPhone screenshots in:
+
+`/Users/wangzixuandemacbook/Desktop/One line English/AppStoreScreenshots/v1/iPhone-6.5`
+
+Suggested order:
+
+1. `01-onboarding.png`
+2. `02-today-card.png`
+3. `03-completed.png`
+4. `04-review.png`
+5. `05-settings-language.png`
+
+All five screenshots are PNG files at 1242 x 2688 px.
+
+Use the 13-inch iPad screenshots in:
+
+`/Users/wangzixuandemacbook/Desktop/One line English/AppStoreScreenshots/v1/iPad-13-inch`
+
+Suggested order:
+
+1. `01-onboarding.png`
+2. `02-today-card.png`
+3. `03-completed.png`
+4. `04-review.png`
+5. `05-settings-language.png`
+
+All five screenshots are PNG files at 2064 x 2752 px.

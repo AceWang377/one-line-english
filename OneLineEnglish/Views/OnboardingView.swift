@@ -36,6 +36,7 @@ struct OnboardingView: View {
                             .foregroundStyle(Color.qgInk)
                             .padding(.horizontal, 28)
                     }
+                    .frame(maxWidth: 680)
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
                 }
             }
@@ -52,6 +53,7 @@ struct OnboardingView: View {
                     .foregroundStyle(Color.qgCharcoal)
             }
             .padding(.horizontal, 28)
+            .frame(maxWidth: 680)
             .padding(.bottom, 28)
         }
         .background(OneLineEnglishBackground())

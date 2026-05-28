@@ -23,6 +23,7 @@ struct ReviewView: View {
                         learnedWordList
                     }
                 }
+                .frame(maxWidth: 760)
                 .padding(.top, 12)
             }
             .navigationTitle(appState.tr("review"))
